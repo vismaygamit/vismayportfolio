@@ -5,7 +5,7 @@ const Hero = () => {
     <div
       id="hero"
       className="hero route bg-image"
-      style={{ backgroundImage: "url(img/hero-bg.jpg)" }}
+      style={{ backgroundImage: "url(/img/hero-bg.jpg)" }}
     >
       <div className="overlay-itro" />
       <div className="hero-content display-table">

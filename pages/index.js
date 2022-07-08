@@ -42,7 +42,7 @@ export default function Home() {
                 <div className="row">
                   <div className="col-sm-6 col-md-5">
                     <div className="about-img">
-                      <img src="img/testimonial-2.jpg" className="img-fluid rounded b-shadow-a" alt="nameofimage" />
+                      <Image layout="fill" src="/img/testimonial-2.jpg" className="img-fluid rounded b-shadow-a" alt="nameofimage" />
                     </div>
                   </div>
                   <div className="col-sm-6 col-md-7">
@@ -288,7 +288,7 @@ export default function Home() {
           <div className="work-box">
             <a href="img/work-1.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox">
               <div className="work-img">
-                <img src="img/work-1.jpg" alt="nameofimage" className="img-fluid" />
+                <Image layout="fill" src="/img/work-1.jpg" alt="nameofimage" className="img-fluid" />
               </div>
             </a>
             <div className="work-content">
@@ -312,7 +312,7 @@ export default function Home() {
           <div className="work-box">
             <a href="img/work-2.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox">
               <div className="work-img">
-                <img src="img/work-2.jpg" alt="nameofimage" className="img-fluid" />
+                <Image layout="fill" src="/img/work-2.jpg" alt="nameofimage" className="img-fluid" />
               </div>
             </a>
             <div className="work-content">
@@ -336,7 +336,7 @@ export default function Home() {
           <div className="work-box">
             <a href="img/work-3.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox">
               <div className="work-img">
-                <img src="img/work-3.jpg" alt="nameofimage" className="img-fluid" />
+                <Image layout="fill" src="/img/work-3.jpg" alt="nameofimage" className="img-fluid" />
               </div>
             </a>
             <div className="work-content">
@@ -360,7 +360,7 @@ export default function Home() {
           <div className="work-box">
             <a href="img/work-4.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox">
               <div className="work-img">
-                <img src="img/work-4.jpg" alt="nameofimage" className="img-fluid" />
+                <Image layout="fill" src="/img/work-4.jpg" alt="nameofimage" className="img-fluid" />
               </div>
             </a>
             <div className="work-content">
@@ -384,7 +384,7 @@ export default function Home() {
           <div className="work-box">
             <a href="img/work-5.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox">
               <div className="work-img">
-                <img src="img/work-5.jpg" alt="nameofimage" className="img-fluid" />
+                <Image layout="fill" src="/img/work-5.jpg" alt="nameofimage" className="img-fluid" />
               </div>
             </a>
             <div className="work-content">
@@ -408,7 +408,7 @@ export default function Home() {
           <div className="work-box">
             <a href="img/work-6.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox">
               <div className="work-img">
-                <img src="img/work-6.jpg" alt="nameofimage" className="img-fluid" />
+                <Image layout="fill" src="/img/work-6.jpg" alt="nameofimage" className="img-fluid" />
               </div>
             </a>
             <div className="work-content">
@@ -442,7 +442,7 @@ export default function Home() {
               <div className="swiper-slide">
                 <div className="testimonial-box">
                   <div className="author-test">
-                    <img src="img/testimonial-2.jpg" alt="nameofimage" className="rounded-circle b-shadow-a" />
+                    <Image layout="fill" src="/img/testimonial-2.jpg" alt="nameofimage" className="rounded-circle b-shadow-a" />
                     <span className="author">Xavi Alonso</span>
                   </div>
                   <div className="content-test">
@@ -456,7 +456,7 @@ export default function Home() {
               <div className="swiper-slide">
                 <div className="testimonial-box">
                   <div className="author-test">
-                    <img src="img/testimonial-4.jpg" alt="nameofimage" className="rounded-circle b-shadow-a" />
+                    <Image layout="fill" src="/img/testimonial-4.jpg" alt="nameofimage" className="rounded-circle b-shadow-a" />
                     <span className="author">Marta Socrate</span>
                   </div>
                   <div className="content-test">
@@ -497,7 +497,7 @@ export default function Home() {
         <div className="col-md-4">
           <div className="card card-blog">
             <div className="card-img">
-              <a href="blog-single.html"><img src="img/post-1.jpg" alt="nameofimage" className="img-fluid" /></a>
+              <a href="blog-single.html"><Image layout="fill" src="/img/post-1.jpg" alt="nameofimage" className="img-fluid" /></a>
             </div>
             <div className="card-body">
               <div className="card-category-box">
@@ -515,7 +515,7 @@ export default function Home() {
             <div className="card-footer">
               <div className="post-author">
                 <a href="https//www/gamitdjremix.in">
-                  <img src="img/testimonial-2.jpg" alt="nameofimage" className="avatar rounded-circle" />
+                  <Image layout="fill" src="/img/testimonial-2.jpg" alt="nameofimage" className="avatar rounded-circle" />
                   <span className="author">Morgan Freeman</span>
                 </a>
               </div>
@@ -528,7 +528,7 @@ export default function Home() {
         <div className="col-md-4">
           <div className="card card-blog">
             <div className="card-img">
-              <a href="blog-single.html"><img src="img/post-2.jpg" alt="nameofimage" className="img-fluid" /></a>
+              <a href="blog-single.html"><Image layout="fill" src="/img/post-2.jpg" alt="nameofimage" className="img-fluid" /></a>
             </div>
             <div className="card-body">
               <div className="card-category-box">
@@ -546,7 +546,7 @@ export default function Home() {
             <div className="card-footer">
               <div className="post-author">
                 <a href="https//www/gamitdjremix.in">
-                  <img src="img/testimonial-2.jpg" alt="nameofimage" className="avatar rounded-circle" />
+                  <Image layout="fill" src="/img/testimonial-2.jpg" alt="nameofimage" className="avatar rounded-circle" />
                   <span className="author">Morgan Freeman</span>
                 </a>
               </div>
@@ -559,7 +559,7 @@ export default function Home() {
         <div className="col-md-4">
           <div className="card card-blog">
             <div className="card-img">
-              <a href="blog-single.html"><img src="img/post-3.jpg" alt="nameofimage" className="img-fluid" /></a>
+              <a href="blog-single.html"><Image layout="fill" src="/img/post-3.jpg" alt="nameofimage" className="img-fluid" /></a>
             </div>
             <div className="card-body">
               <div className="card-category-box">
@@ -577,7 +577,7 @@ export default function Home() {
             <div className="card-footer">
               <div className="post-author">
                 <a href="https//www/gamitdjremix.in">
-                  <img src="img/testimonial-2.jpg" alt="nameofimage" className="avatar rounded-circle" />
+                  <Image layout="fill" src="/img/testimonial-2.jpg" alt="nameofimage" className="avatar rounded-circle" />
                   <span className="author">Morgan Freeman</span>
                 </a>
               </div>

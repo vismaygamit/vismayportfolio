@@ -10,7 +10,7 @@ const Layout = ({children}) => {
     <Hero/>
     {children}
       <Footer/>
-      <div id="preloader" />
+      {/* <div id="preloader" /> */}
       
     </>
   );
